@@ -1,0 +1,30 @@
+body{
+    width: 1000px;
+    height: 900px;
+    background-color: yellowgreen;
+}
+.margin{
+    margin: 0 auto;
+    width: 600px;
+    height: 800px;
+    background-color: red;
+}
+th{
+    width: 400px;
+    text-align: left;
+}
+td{
+    width: 150px;
+}
+.t1{
+    width: 600px;
+    text-align: center;
+}
+.t2{
+    width: 600px;
+    text-align: center;
+}
+.t3{
+    width: 600px;
+    text-align: center;
+}
